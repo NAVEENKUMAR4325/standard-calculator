@@ -1,4 +1,4 @@
-![cal](https://user-images.githubusercontent.com/119479566/215397952-db27560d-70b3-4dd8-bde4-b947b45023f0.png)
+
 # Design of a Standard Calculator
 
 ## AIM:
@@ -161,7 +161,8 @@ h1{
 ```
 
 ## OUTPUT:
-git remote set-url origin https://NAVEENKUMAR4325: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@github.com/NAVEENKUMAR4325/standard-calculator.git
+![cal](https://user-images.githubusercontent.com/119479566/215398178-ad22fa98-3e4b-4066-beba-df8a01830f7c.png)
+
 
 ## HTML VALIDATOR:
 ![html val](https://user-images.githubusercontent.com/119479566/215398043-5c6a740c-3ccf-4d8e-b9b3-3b986b3f2aa3.png)
